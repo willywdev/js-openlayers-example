@@ -1,0 +1,25 @@
+@import "node_modules/ol/ol.css";
+
+html,
+body {
+  margin: 0;
+  height: 100%;
+  background-color: #202020;
+}
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+#map {
+  width: 95%;
+  background-color: white;
+  height: 500px;
+}
+
+h1 {
+  font-family: Arial;
+  color: #fafafa;
+}

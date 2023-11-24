@@ -1,0 +1,15 @@
+{
+  "name": "js-openlayers-example",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "latest"
+  },
+  "dependencies": {
+    "ol": "latest"
+  }
+}
